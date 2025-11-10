@@ -1,0 +1,21 @@
+DisplayName,UserPrincipalName,JobTitle,Department
+Ana Torres,ana.torres@LODSM999258.onmicrosoft.com,HR Specialist,Human Resources
+Luis Pineda,luis.pineda@LODSM999258.onmicrosoft.com,Recruiter,Human Resources
+Carlos Reyes,carlos.reyes@LODSM999258.onmicrosoft.com,Security Analyst,IT
+Daniela López,daniela.lopez@LODSM999258.onmicrosoft.com,System Administrator,IT
+María Gómez,maria.gomez@LODSM999258.onmicrosoft.com,Marketing Lead,Marketing
+Fernando Ortiz,fernando.ortiz@LODSM999258.onmicrosoft.com,Graphic Designer,Marketing
+Laura Sánchez,laura.sanchez@LODSM999258.onmicrosoft.com,Sales Executive,Sales
+Andrés Vega,andres.vega@LODSM999258.onmicrosoft.com,Sales Manager,Sales
+Valeria Cruz,valeria.cruz@LODSM999258.onmicrosoft.com,Finance Analyst,Finance
+Rodrigo Herrera,rodrigo.herrera@LODSM999258.onmicrosoft.com,Accountant,Finance
+Sofía Medina,sofia.medina@LODSM999258.onmicrosoft.com,DevOps Engineer,IT
+Pablo Torres,pablo.torres@LODSM999258.onmicrosoft.com,Cloud Architect,IT
+Karen Ríos,karen.rios@LODSM999258.onmicrosoft.com,Marketing Intern,Marketing
+Diego Flores,diego.flores@LODSM999258.onmicrosoft.com,Product Owner,Operations
+Mónica Pérez,monica.perez@LODSM999258.onmicrosoft.com,Legal Advisor,Legal
+Ernesto Luna,ernesto.luna@LODSM999258.onmicrosoft.com,Compliance Officer,Legal
+Isabel Duarte,isabel.duarte@LODSM999258.onmicrosoft.com,Executive Assistant,Operations
+Roberto Salas,roberto.salas@LODSM999258.onmicrosoft.com,Sales Support,Sales
+Camila Torres,camila.torres@LODSM999258.onmicrosoft.com,IT Support,IT
+Antonio Ruiz,antonio.ruiz@LODSM999258.onmicrosoft.com,Data Analyst,Finance

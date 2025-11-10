@@ -1,0 +1,9 @@
+Department,GroupName
+Human Resources,sg-HR
+IT,sg-IT
+Marketing,Sales and Marketing
+Sales,Sales Team
+Finance,Finance Team
+Operations,Operations
+Legal,Legal Team
+

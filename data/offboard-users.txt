@@ -1,0 +1,12 @@
+UserPrincipalName
+ana.torres@LODSM999258.onmicrosoft.com
+luis.pineda@LODSM999258.onmicrosoft.com
+carlos.reyes@LODSM999258.onmicrosoft.com
+daniela.lopez@LODSM999258.onmicrosoft.com
+maria.gomez@LODSM999258.onmicrosoft.com
+sofia.medina@LODSM999258.onmicrosoft.com
+pablo.torres@LODSM999258.onmicrosoft.com
+valeria.cruz@LODSM999258.onmicrosoft.com
+diego.flores@LODSM999258.onmicrosoft.com
+monica.perez@LODSM999258.onmicrosoft.com
+
