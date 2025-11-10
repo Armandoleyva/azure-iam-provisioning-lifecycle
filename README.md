@@ -38,6 +38,9 @@ Creates a new user account in Entra ID and assigns it to one or more security gr
                      -DisplayName "New Hire" `
                      -Department "IT"
 
+⚠️ Note: The password value shown in the sample script is for demonstration only.
+Replace it with a secure variable, prompt, or environment variable when using this script.
+
 ### 2. **Group Assignment**
 
 This step assigns existing users to their appropriate groups based on department data from a CSV file (`groups.txt`).
