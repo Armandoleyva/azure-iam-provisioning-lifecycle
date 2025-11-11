@@ -1,19 +1,18 @@
-# Azure AD (Entra ID) — IAM Lifecycle Lab: Provisioning & Deprovisioning Automation
+# Microsoft Entra ID — Automated Identity Lifecycle Management
 
-This repository demonstrates an **Identity Lifecycle Management** lab focused on bulk user provisioning and deprovisioning using **Microsoft Entra ID (Azure AD)**.
+This repository demonstrates an enterprise grade **Identity Lifecycle Management** solution focused on bulk automated user provisioning and deprovisioning using **Microsoft Entra ID (Azure AD)**.
 
 It shows how IAM engineers can automate processes for adding, updating, and deleting users at scale by leveraging Azure automation, PowerShell and Microsoft Graph scripts, simulating realistic enterprise IAM workflows where multiple users are created, updated, and deleting in batches.
 
 ---
 
-## 🚀 Project Overview
+## 📄 Project Overview
 
 This lab is designed to demonstrate:
 
 - ✅ **Provisioning**: Automatically create a new user in Azure AD and assign them to the correct security groups.
 - 🔁 **Role Updates**: Simulate “mover” scenarios by changing department or group membership.
 - ❌ **Deprovisioning**: Disable a user and remove their access from all associated groups and resources.
-- 📊 **Auditing**: Produce logs for compliance and review (basic version included).
 
 ---
 
