@@ -11,7 +11,7 @@ It shows how IAM engineers can automate processes for adding, updating, and dele
 This lab is designed to demonstrate:
 
 - ✅ **Provisioning**: Automatically create a new user in Azure AD and assign them to the correct security groups.
-- 🔁 **Role Updates**: Simulate “mover” scenarios by changing department or group membership.
+- 🔁 Role Updates: Simulate employee transfers by updating department or group membership.
 - ❌ **Deprovisioning**: Disable a user and remove their access from all associated groups and resources.
 
 ---
